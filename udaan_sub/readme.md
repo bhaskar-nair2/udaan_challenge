@@ -2,12 +2,11 @@
 Flask<br>
 MongoDB<br>
 
-
 **Run Commands** <br>
 *Requires python3/ Virtual Env not in included in the zip*<br>
 pip3 install -r requirements.txt<br>
 python3 app.py [for dev] <br>
- gunicorn app:app -w 1 --bind 0.0.0.0:9090 --reload [production] <br>
+gunicorn app:app -w 1 --bind 0.0.0.0:9090 --reload [production] <br>
 
 **Hosted At**<br>
 https://udaan.bstark.tech/<br>

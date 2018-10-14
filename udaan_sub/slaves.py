@@ -36,7 +36,6 @@ class Mongo:
                     rows.append({_: set([x for x in range(avail[_]['numberOfSeats'])])})
             resp = make_response(json.dumps({"seats": rows}, cls=SetEncoder))
             resp.status_code = 200
-            resp.headers['Access-Control-Allow-Origin'] = '*'
             return resp
 
         except KeyError:

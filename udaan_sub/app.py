@@ -37,4 +37,4 @@ def seat_stat(screen_name, x, seat_row_number):
 
 
 if __name__ == '__main__':
-    app.run(port=9090, debug=True)
+    app.run(port=9090)
