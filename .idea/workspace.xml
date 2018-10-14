@@ -1,72 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a8fa494-43ff-4b61-a501-0e1144b6e2d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/static/scripts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/HE_identity_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/Markdown.All.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/MathJax(1).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/MathJax.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/alljs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/analytics.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/api.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/base1.0.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/base_candidate.0.1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/base_common_combined.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/bigpipe.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/bluebook.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/bluebook.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/brace-vendors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/code-editor-autocomplete-all.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/code_player_v2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/controller.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/cookiebar.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/cookiebar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/custom-jquery.joyride-2.1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/customer-support-widget.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/customer-support-widget.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/detect_timezone.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/editor1.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/flow_action.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/gdpr-modal.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/history.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/jquery-ui-1.8.21.custom.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/jquery.joyride-2.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/jquery.pageanalytics.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/lab.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/notification-toast.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/notification_toast.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/offline-theme-slide.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/opensans.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/pace.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/pace.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/pagedown.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/prettify.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/prettifyall.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/problems_new.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/problems_new.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/pygments.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/raven-3.14.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/recaptcha__en.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/redirect_on_event_end.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/saved_resource(1).html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/saved_resource(2).html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/saved_resource(3).html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/saved_resource(4).html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/saved_resource.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/single_session.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/test_proctor.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/tipTip.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/unicons.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/vendors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/res.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/res.html" afterDir="false" />
-    </list>
+    <list default="true" id="0a8fa494-43ff-4b61-a501-0e1144b6e2d2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,8 +46,8 @@
           <entry key="Mongo Console" value="22" />
           <entry key="Python Console" value="139" />
           <entry key="dummy" value="3" />
-          <entry key="html" value="377" />
-          <entry key="js" value="114" />
+          <entry key="html" value="398" />
+          <entry key="js" value="136" />
           <entry key="json" value="51" />
           <entry key="py" value="5140" />
           <entry key="txt" value="1" />
@@ -120,9 +55,9 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="377" />
+          <entry key="HTML" value="398" />
           <entry key="JSON" value="51" />
-          <entry key="JavaScript" value="114" />
+          <entry key="JavaScript" value="136" />
           <entry key="PLAIN_TEXT" value="26" />
           <entry key="Python" value="5279" />
         </counts>
@@ -149,8 +84,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/res.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+            <state relative-caret-position="268">
+              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -158,8 +93,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/scripts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -200,8 +135,8 @@
         <option value="$PROJECT_DIR$/data/screens.json" />
         <option value="$PROJECT_DIR$/slaves.py" />
         <option value="$PROJECT_DIR$/app.py" />
-        <option value="$PROJECT_DIR$/templates/res.html" />
         <option value="$PROJECT_DIR$/static/scripts.js" />
+        <option value="$PROJECT_DIR$/templates/res.html" />
       </list>
     </option>
   </component>
@@ -338,13 +273,12 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2423907" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2423907" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" weight="0.32972974" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32972974" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32972974" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" order="4" weight="0.3264865" />
@@ -413,15 +347,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/res.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+        <state relative-caret-position="268">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>

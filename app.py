@@ -1,16 +1,18 @@
-from flask import Flask, request, render_template
+from flask import Flask, request, render_template, redirect
 from slaves import Mongo
 
 app = Flask("__name__")
 mongo = Mongo(app)
 
 
-@app.route('/screens', methods=['POST', 'GET'])
+@app.route('/', methods=['GET'])
+def home():
+    return render_template('res.html')
+
+
+@app.route('/screens', methods=['POST'])
 def screen():
-    if request.method == 'POST':
-        return mongo.new_sc(request.json)
-    else:
-        return render_template('res.html')
+    return mongo.new_sc(request.json)
 
 
 @app.route('/screens/<string:screen_name>/reserve', methods=['POST'])
