@@ -9,6 +9,7 @@ class Mongo:
         self.mongo = PyMongo(app, URI)
         self.client = self.mongo.db['udaan.screens']
 
+    # TODO: A1. New Screen
     def new_sc(self, data):
         if self.client.find_one({"name": data['name']}) is None:
             data['res_info'] = {}
@@ -21,6 +22,7 @@ class Mongo:
             res.status_code = 409
             return res
 
+    # TODO: A3. Available Seats
     def __call__(self, scr_name):
         try:
             data = self.client.find_one({"name": scr_name})
@@ -41,6 +43,7 @@ class Mongo:
         except TypeError:
             return 'No Such Screen'
 
+    # TODO: A2. Reserve tickets
     def res(self, scr_name, demand):
         try:
             avail = self.client.find_one({'name': scr_name})['seatInfo']  # AVAIlAble Keys
@@ -76,6 +79,7 @@ class Mongo:
             res.status_code = 403
             return res
 
+    # TODO: A4. That suggestion function
     # TODO: BAM BAM BAM!!!
     def suggest_seats(self, scr_name, seat_count, choice):
         data = self.client.find_one({"name": scr_name})
