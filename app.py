@@ -10,7 +10,7 @@ def screen():
     if request.method == 'POST':
         return mongo.new_sc(request.json)
     else:
-        return render_template('')
+        return render_template('res.html')
 
 
 @app.route('/screens/<string:screen_name>/reserve', methods=['POST'])

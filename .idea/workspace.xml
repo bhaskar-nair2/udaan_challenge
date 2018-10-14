@@ -1,12 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a8fa494-43ff-4b61-a501-0e1144b6e2d2" name="Default Changelist" comment="" />
+    <list default="true" id="0a8fa494-43ff-4b61-a501-0e1144b6e2d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/static/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/HE_identity_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/Markdown.All.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/MathJax(1).js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/MathJax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/alljs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/analytics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/base1.0.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/base_candidate.0.1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/base_common_combined.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/bigpipe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/bluebook.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/bluebook.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/brace-vendors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/code-editor-autocomplete-all.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/code_player_v2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/controller.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/cookiebar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/cookiebar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/custom-jquery.joyride-2.1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/customer-support-widget.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/customer-support-widget.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/detect_timezone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/editor1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/flow_action.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/gdpr-modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/history.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/jquery-ui-1.8.21.custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/jquery.joyride-2.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/jquery.pageanalytics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/lab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/notification-toast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/notification_toast.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/offline-theme-slide.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/opensans.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/pace.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/pace.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/pagedown.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/prettify.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/prettifyall.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/problems_new.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/problems_new.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/pygments.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/raven-3.14.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/recaptcha__en.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/redirect_on_event_end.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/saved_resource(1).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/saved_resource(2).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/saved_resource(3).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/saved_resource(4).html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/saved_resource.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/single_session.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/test_proctor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/tipTip.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/unicons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems - Udaan Developer Hiring Challenge_files/vendors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/res.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/res.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/udaan_challenge$udaan.coverage" NAME="udaan Coverage Results" MODIFIED="1539542693274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1837952809">
@@ -21,6 +89,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="1" />
+          <entry key="js" value="2" />
           <entry key="json" value="1" />
           <entry key="py" value="2" />
           <entry key="screens" value="1" />
@@ -31,6 +100,7 @@
         <counts>
           <entry key="HTML" value="1" />
           <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="2" />
           <entry key="MONGO" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Python" value="2" />
@@ -41,34 +111,36 @@
           <entry key="Mongo Console" value="22" />
           <entry key="Python Console" value="139" />
           <entry key="dummy" value="3" />
-          <entry key="html" value="32" />
+          <entry key="html" value="377" />
+          <entry key="js" value="114" />
           <entry key="json" value="51" />
-          <entry key="py" value="5114" />
+          <entry key="py" value="5140" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="32" />
+          <entry key="HTML" value="377" />
           <entry key="JSON" value="51" />
+          <entry key="JavaScript" value="114" />
           <entry key="PLAIN_TEXT" value="26" />
-          <entry key="Python" value="5253" />
+          <entry key="Python" value="5279" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+            <state relative-caret-position="300">
+              <caret line="20" column="52" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="52" />
               <folding>
                 <element signature="e#0#49#0" expanded="true" />
-                <marker date="1539542176771" expanded="true" signature="215:303" ph="..." />
-                <marker date="1539542176771" expanded="true" signature="215:808" ph="..." />
-                <marker date="1539542176771" expanded="true" signature="558:808" ph="..." />
+                <marker date="1539542620276" expanded="true" signature="215:313" ph="..." />
+                <marker date="1539542620276" expanded="true" signature="215:818" ph="..." />
+                <marker date="1539542620276" expanded="true" signature="568:818" ph="..." />
               </folding>
             </state>
           </provider>
@@ -77,8 +149,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/res.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="418">
+              <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/static/scripts.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -105,8 +186,12 @@
       <list>
         <option value="Python Script" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -114,8 +199,9 @@
         <option value="$PROJECT_DIR$/udaan_challenge.py" />
         <option value="$PROJECT_DIR$/data/screens.json" />
         <option value="$PROJECT_DIR$/slaves.py" />
-        <option value="$PROJECT_DIR$/templates/res.html" />
         <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/templates/res.html" />
+        <option value="$PROJECT_DIR$/static/scripts.js" />
       </list>
     </option>
   </component>
@@ -130,8 +216,9 @@
     <option name="width" value="1860" />
     <option name="height" value="1095" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -141,6 +228,11 @@
             <path>
               <item name="udaan_challenge" type="b2602c69:ProjectViewProjectNode" />
               <item name="udaan_challenge" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="udaan_challenge" type="b2602c69:ProjectViewProjectNode" />
+              <item name="udaan_challenge" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="udaan_challenge" type="b2602c69:ProjectViewProjectNode" />
@@ -175,7 +267,12 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/app.py" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.mongoOptions" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -241,19 +338,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.13060321" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2423907" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" weight="0.32972974" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32901832" />
+      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32972974" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" order="4" weight="0.32686085" />
+      <window_info anchor="bottom" id="Python Console" order="4" weight="0.3264865" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Run" order="8" weight="0.39590076" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.3956757" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -284,6 +382,22 @@
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/static/jquery-3.3.1.slim.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="52" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+            <marker date="1539542620276" expanded="true" signature="215:313" ph="..." />
+            <marker date="1539542620276" expanded="true" signature="215:818" ph="..." />
+            <marker date="1539542620276" expanded="true" signature="568:818" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/slaves.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1110">
@@ -299,21 +413,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/res.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="418">
+          <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.py">
+    <entry file="file://$PROJECT_DIR$/static/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#49#0" expanded="true" />
-            <marker date="1539542176771" expanded="true" signature="215:303" ph="..." />
-            <marker date="1539542176771" expanded="true" signature="215:808" ph="..." />
-            <marker date="1539542176771" expanded="true" signature="558:808" ph="..." />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
         </state>
       </provider>
     </entry>
