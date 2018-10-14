@@ -49,7 +49,7 @@
           <entry key="html" value="398" />
           <entry key="js" value="136" />
           <entry key="json" value="51" />
-          <entry key="py" value="5140" />
+          <entry key="py" value="5188" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
@@ -59,23 +59,24 @@
           <entry key="JSON" value="51" />
           <entry key="JavaScript" value="136" />
           <entry key="PLAIN_TEXT" value="26" />
-          <entry key="Python" value="5279" />
+          <entry key="Python" value="5327" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="52" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="52" />
+            <state relative-caret-position="165">
+              <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
               <folding>
-                <element signature="e#0#49#0" expanded="true" />
-                <marker date="1539542620276" expanded="true" signature="215:313" ph="..." />
-                <marker date="1539542620276" expanded="true" signature="215:818" ph="..." />
-                <marker date="1539542620276" expanded="true" signature="568:818" ph="..." />
+                <element signature="e#0#59#0" expanded="true" />
+                <marker date="1539545717865" expanded="true" signature="175:217" ph="..." />
+                <marker date="1539545717865" expanded="true" signature="276:312" ph="..." />
+                <marker date="1539545717865" expanded="true" signature="276:817" ph="..." />
+                <marker date="1539545717865" expanded="true" signature="567:817" ph="..." />
               </folding>
             </state>
           </provider>
@@ -90,7 +91,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static/scripts.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -134,9 +135,9 @@
         <option value="$PROJECT_DIR$/udaan_challenge.py" />
         <option value="$PROJECT_DIR$/data/screens.json" />
         <option value="$PROJECT_DIR$/slaves.py" />
-        <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/static/scripts.js" />
         <option value="$PROJECT_DIR$/templates/res.html" />
+        <option value="$PROJECT_DIR$/app.py" />
       </list>
     </option>
   </component>
@@ -319,19 +320,6 @@
     <entry file="file://$PROJECT_DIR$/static/jquery-3.3.1.slim.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="52" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="52" />
-          <folding>
-            <element signature="e#0#49#0" expanded="true" />
-            <marker date="1539542620276" expanded="true" signature="215:313" ph="..." />
-            <marker date="1539542620276" expanded="true" signature="215:818" ph="..." />
-            <marker date="1539542620276" expanded="true" signature="568:818" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/slaves.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1110">
@@ -356,6 +344,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+            <marker date="1539545717865" expanded="true" signature="175:217" ph="..." />
+            <marker date="1539545717865" expanded="true" signature="276:312" ph="..." />
+            <marker date="1539545717865" expanded="true" signature="276:817" ph="..." />
+            <marker date="1539545717865" expanded="true" signature="567:817" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
